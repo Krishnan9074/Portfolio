@@ -33,8 +33,7 @@ export default function Projects() {
                     Adensitien
                       </span><br/><br/>
                     <div className='projects-description'>
-                    This project utilizes advanced AI technologies to monitor user interactions on a simulated Walmart website, generate tailored product recommendations, and create dynamic video ads. These ads are then automatically deployed to platforms like YouTube and displayed on Walmart's digital screens and website.
-                    
+                    AI-driven project creates personalized ads for ecomm websites and platforms.
                     <br/><br/>
                     Technologies used: <br/>
                     React,Flask,Python,Tensorflow,Gen AI
@@ -83,9 +82,9 @@ export default function Projects() {
                     Envirowatch
                       </span><br/><br/>
                     <div className='projects-description'>
-                    A IOT + ML project where the environment is sensed and data is collected ,ml models are used for predictive analytics using real time data .A whatsapp chatbot gives you real timedata. 
+                    A IOT + ML project where the environment is sensed ,ml models are used for predictive analytics using real time data .A whatsapp chatbot gives you real timedata. 
                     
-                    <br/><br/>
+                    <br/>
                     Technologies used: <br/>
                     TensorFlow, SkLearn , IOT , twilio, GenAi
                     <br/><br/><br/>
@@ -110,7 +109,7 @@ export default function Projects() {
                     <div className='projects-description'>
                     Deep learning model(CNN+transfer learning) detects fruit ripeness
                     
-                    <br/>
+                    <br/><br /><br />
                     Technologies used: <br/>
                     TensorFlow,Pytorch,Python
                     <br/><br/><br/>
