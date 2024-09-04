@@ -97,20 +97,11 @@ export default function Home() {
       <br/><br/><br/><br/><br/>
         <div className='xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden'>
         <div className='about-content'>
-        Welcome to my corner of the digital realm! I'm thrilled to have you here. I'm a passionate
-         software engineer with a deep-rooted love for crafting innovative solutions that meld technology 
-         and creativity. With fluency in C++,Python and Java, I find myself right at home navigating
-         the intricate landscapes of code.
-         <br/> <br/>
-        My expertise lies in the captivating field of Artificial Intelligence. The world of AI is where 
-        I've dedicated countless hours, delving into its intricate algorithms and models. 
-        From predictive analytics to large language models, I find the challenge of teaching machines 
-        to learn and make decisions utterly exhilarating. The ever-evolving nature of AI keeps me 
-        on my toes, always hungry to learn and experiment with the latest advancements.
-        <br/> <br/>
-        Beyond AI, I'm an avid explorer of the web development realm. I revel in the art of creating sleek, 
-        user-friendly interfaces that seamlessly merge form and function. Whether it's responsive designs, 
-        interactive user experiences, or the magic of backend development, I'm always up for the challenge.
+        <p>Welcome to my digital world! I’m a passionate software engineer, blending technology and creativity to craft innovative solutions. Fluent in C++, Python, and Java, I thrive in the dynamic realm of code.</p>
+
+<p>🌟 My expertise? Artificial Intelligence! I’m deeply immersed in AI, from predictive analytics to large language models. The evolving AI landscape keeps me eager to learn and innovate.</p>
+
+<p>💻 Beyond AI, I’m a web development enthusiast. I love creating sleek, user-friendly interfaces and tackling both front-end and back-end challenges. Let’s build something amazing together!</p>
          </div>
          <div className='xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'> 
             <EarthCanvas/>

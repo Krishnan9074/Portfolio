@@ -76,8 +76,8 @@ export default function Home() {
       }}>
         <a id="alinks" className="links" href="https://github.com/Krishnan9074"><img className="git" src={git_blue} height="50px" width="50px"/></a>
         <a id="alinks" className="links" href="https://www.linkedin.com/in/krishnan-v-s-132678226/"><img src={linkedin} height="50px" width="50px"/></a>
-        <a id="alinks" className="links" href="https://www.linkedin.com/in/krishnan-v-s-132678226/"><img src={twitter} height="50px" width="50px"/></a>
-        <a id="alinks" className="links" href="https://github.com/Krishnan9074"><img src={instagram} height="50px" width="50px"/></a>
+        <a id="alinks" className="links" href="https://x.com/vkrishnan9074"><img src={twitter} height="50px" width="50px"/></a>
+        <a id="alinks" className="links" href="https://www.instagram.com/vsk9074/"><img src={instagram} height="50px" width="50px"/></a>
         </motion.div>
     </div>
 
